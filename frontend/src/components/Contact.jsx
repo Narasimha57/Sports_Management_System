@@ -8,9 +8,9 @@ const Contact = () => {
         free to contact the Admin.
         <br />
         <h2 className="text-black-100 text-base sm:text-lg md:text-4xl leading-relaxed text-center font-semibold">
-          Call to +91 8125776404
+          Call to +91 9949678227
           <br />
-          Gmail : ravulapruthviraj@gmail.com
+          Gmail : narasimhagonela@gmail.com
         </h2>
       </h1>
     </div>
